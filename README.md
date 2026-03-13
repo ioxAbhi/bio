@@ -72,7 +72,7 @@ python bio.py
 
 ## Author
 
-- Name: Elite Sid
-- Telegram: [@EliteSid](https://t.me/EliteSid)
+- Name: ioxAbhi
+- Telegram: [@ioxAbhi](https://t.me/ioxAbhi)
 
 Feel free to reach out if you have any questions or feedback.
